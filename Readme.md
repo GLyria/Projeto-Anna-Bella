@@ -1,7 +1,5 @@
-
-
-<img src = "https://github.com/GLyria/Projeto-Anna-Bella/issues/5#issue-3426997107">
-
+![Image](https://github.com/user-attachments/assets/a1b15f67-0528-42dd-93be-8144292a7849)
+![Image](https://github.com/user-attachments/assets/a00c7aef-6d9f-4479-8823-a6a8bd96f49d)
 
 # Projeto Anna Bella 
 Este projeto é um site Fictício desenvolvido inteiramente com **HTML5** e **CSS3**, criado como exercício de prática de estruturação e estilização de páginas estáticas.
