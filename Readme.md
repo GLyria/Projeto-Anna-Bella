@@ -1,3 +1,5 @@
+
+
 # Projeto Anna Bella 
 Este projeto é um site Fictício desenvolvido inteiramente com **HTML5** e **CSS3**, criado como exercício de prática de estruturação e estilização de páginas estáticas.
 ## Sobre o projeto
@@ -20,4 +22,6 @@ Cada página segue um layout padronizado, com menu de navegação, rodapé e ár
 - **HTML5**  
 - **CSS3**
 
-
+## Demonstração 
+<img width="605" height="614" alt="Image" src="https://github.com/user-attachments/assets/fec2a3a8-b89d-442f-9e43-bcf71fb99cda" />
+<img width="605" height="550" alt="Image" src="https://github.com/user-attachments/assets/efa3009c-fd91-49f6-a126-8731a4cfc3b9" />
