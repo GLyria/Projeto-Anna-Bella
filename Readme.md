@@ -1,5 +1,6 @@
-
-
+<div align="center">
+img src="https://desblogada.files.wordpress.co..." width="0px" /
+</div>
 # Projeto Anna Bella 
 Este projeto é um site Fictício desenvolvido inteiramente com **HTML5** e **CSS3**, criado como exercício de prática de estruturação e estilização de páginas estáticas.
 ## Sobre o projeto
