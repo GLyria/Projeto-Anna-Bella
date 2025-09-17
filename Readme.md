@@ -1,5 +1,5 @@
 # Projeto Anna Bella 
-Este projeto é um site ictício desenvolvido inteiramente com **HTML5** e **CSS3**, criado como exercício de prática de estruturação e estilização de páginas estáticas.
+Este projeto é um site Fictício desenvolvido inteiramente com **HTML5** e **CSS3**, criado como exercício de prática de estruturação e estilização de páginas estáticas.
 ## Sobre o projeto
 O site apresenta informações sobre a modelo fictícia *Anna Bella* e é composto por múltiplas páginas interligadas:
 - **Home**
