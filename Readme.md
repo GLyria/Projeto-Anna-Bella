@@ -17,7 +17,13 @@ Cada página segue um layout padronizado, com menu de navegação, rodapé e ár
 - Estilo visual com CSS3 (cores, tipografia, bordas, imagens de fundo e centralização do layout).  
 - Layout simples e responsivo para telas maiores.  
 - Menu de navegação reutilizado em todas as páginas.  
-- Imagens ilustrativas para compor o design das seções.  
+- Imagens ilustrativas para compor o design das seções.
+
+  ## 🌐 Como visualizar
+
+1. Faça o download ou clone este repositório
+2. Abra o arquivo `index.html` em qualquer navegador web
+3. Navegue entre as páginas através do menu superior
 
 ## Tecnologias utilizadas
 - **HTML5**  
